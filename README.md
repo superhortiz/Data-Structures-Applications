@@ -51,4 +51,4 @@ Simulations using Verlet integration for physics-based motion. It was implemente
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/superhortiz/Data-Structures-Applications.git
